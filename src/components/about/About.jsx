@@ -3,7 +3,7 @@ import './About.css'
 import React from 'react'
 import ME from '../../UploadFile/Me-picture.jpg'
 import { FaAward } from 'react-icons/fa'
-import { FiUsers } from 'react-icons/fi'
+import { FaUserGraduate } from 'react-icons/fa'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
 const About = () => {
@@ -23,23 +23,26 @@ const About = () => {
               <article className='about__card'>
                 <FaAward className='about__icon'/>
                 <h5>Experience</h5>
-                <small> 1 Year Experience</small>
+                <small> Entry Level</small>
               </article>
 
               <article className='about__card'>
-                <FiUsers className='about__icon'/>
-                <h5>Clients</h5>
-                <small> 200+ client worldwide</small>
+                <FaUserGraduate className='about__icon'/>
+                <h5>Education</h5>
+                <small> Bachelor of Science in Computer Science </small>
               </article>
 
               <article className='about__card'>
                 <VscFolderLibrary className='about__icon'/>
                 <h5>Projects</h5>
-                <small> 80+</small>
+                <small> 3+</small>
               </article>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora error eos consequuntur exercitationem dolor sunt ullam ex, debitis consectetur animi mollitia tenetur laborum ea iusto non maxime ipsum. Ut, temporibus?
+                Recent graduate in computer science with progressive experience in developing and deploying high-impact software systems consistent with user requirements. Aspiring to leverage strong analytical, technical, and detail-orientation abilities to secure a challenging software developer/ engineer position in the IT field.
+                Offering solid technical skills across a wide range of tools and software applications with a passion to provide full technical support and lead various IT projects. Skilled troubleshooter continually focused on resolving complex hardware and software issues.
+                Able to convey complex technologies to a variety of skill levels.
+
             </p>
 
             <a href='#contact' className='btn btn-primary' > Let Talk</a>

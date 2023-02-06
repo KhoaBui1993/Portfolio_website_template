@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e578bb95.css",
+    "main.js": "/static/js/main.b622ccd5.js",
+    "static/media/Me.png": "/static/media/Me.ffab32b033d41cec837c.png",
+    "static/media/porfolio1.png": "/static/media/porfolio1.5309a356304a34600101.png",
+    "static/media/Me-picture.jpg": "/static/media/Me-picture.59865695af5bd4612b48.jpg",
+    "static/media/Khoa_Resume.pdf": "/static/media/Khoa_Resume.7a210645c7089dc95e00.pdf",
+    "index.html": "/index.html",
+    "main.e578bb95.css.map": "/static/css/main.e578bb95.css.map",
+    "main.b622ccd5.js.map": "/static/js/main.b622ccd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e578bb95.css",
+    "static/js/main.b622ccd5.js"
+  ]
+}
